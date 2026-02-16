@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harshitha S</h1>
 <p align="center">
-  <a href="https://github.com/himankgupta1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;DS%20|%20AI%20|%20ML%20Enthusiast;Full+Stack+Developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/hachucodes/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;DS%20|%20AI%20|%20ML%20Enthusiast;Full+Stack+Developer&center=true&width=500&height=50"></a>
 </p>
 
 ## Introducing Myself 🙋‍♂️
@@ -90,8 +90,8 @@
 ## Statistics 📶
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himankgupta1&show_icons=true&theme=tokyonight&rank_icon=github" alt="Himank's GitHub stats" style="width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himankgupta1&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 34%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hachucodes&show_icons=true&theme=tokyonight&rank_icon=github" alt="Himank's GitHub stats" style="width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachucodes&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 34%;">
   <br/>
   <img src="https://streak-stats.demolab.com?user=hachucodes&theme=tokyonight" alt="GitHub Streak" style="width: 50%;">
 </div>
@@ -120,7 +120,7 @@
         <!--Leetcode--> 
         <!-- <a href="https://leetcode.com/u/himank_gupta/"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a> -->
         <!--Kaggle--> 
-        <!-- <a href="https://www.kaggle.com/himankgupta15"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a> -->
+        <!-- <a href="https://www.kaggle.com/hachucodes5"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a> -->
       </td>
     </tr>
   </tbody>
