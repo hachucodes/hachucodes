@@ -90,7 +90,7 @@
 ## Statistics 📶
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hachucodes&show_icons=true&theme=tokyonight&rank_icon=github" alt="Himank's GitHub stats" style="width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hachucodes&show_icons=true&theme=tokyonight&rank_icon=github" alt="Harshitha's GitHub stats" style="width: 45%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachucodes&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 34%;">
   <br/>
   <img src="https://streak-stats.demolab.com?user=hachucodes&theme=tokyonight" alt="GitHub Streak" style="width: 50%;">
