@@ -116,8 +116,6 @@ Voice-controlled AI assistant integrating OpenWeather & Wikipedia APIs via NLP a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hachucodes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachucodes&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hachucodes&theme=midnight-purple&hide_border=true&background=0d1117" />
 
