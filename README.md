@@ -1,127 +1,158 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harshitha S</h1>
-<p align="center">
-  <a href="https://github.com/hachucodes/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;DS%20|%20AI%20|%20ML%20Enthusiast;Full+Stack+Developer&center=true&width=500&height=50"></a>
-</p>
-
-## Introducing Myself 🙋‍♂️
-
-- 💼 Currently working as a System Engineer at Infosys, Bengaluru
-- 📍 I'm based in Bengaluru, India
-- 👀 Interested in Backend Development, System Design, and scalable Web Applications   
-- ⚙️ Hands-on experience with ASP.NET Core Web API, SQL Server, EF Core, Angular, and Java
-- 📧 You can reach me by [email](mailto:sureshharshitha13@gmail.com)
-
-## Tech Stack 🛠️
-
-<table align="center">
-  <thead align="center">
-    <tr align="center">
-      <!-- Competitive Programming Skills -->
-      <td align="center">👩‍💻 PROGRAMMING</td>
-      <!-- Data Science Skills -->
-      <td align="center">💡 MACHINE LEARNING</td>
-      <!-- Web Development Skills -->
-      <td align="center">📊 DATA SCIENCE</td>
-      <!-- Other Skills -->
-      <td align="center">👁️ OTHERS</td>
-    </tr>
-  </thead>
-
-  <tbody align="center">
-    <tr align="center">
-      <!-- Programming Skills -->
-      <td align="center">
-        <!-- Python -->
-        <a href="https://www.python.org" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> </a>
-        <!-- R -->
-        <a href="https://www.r-project.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/> </a>
-        <!-- JavaScript -->
-        <a href="https://www.python.org" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> </a>
-        <!-- TailwindCSS -->
-        <a href="https://www.r-project.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)" alt="tailwindcss"/> </a>
-      </td>
-      <!-- Machine Learning Skills -->
-      <td align="center">
-        <!-- Numpy -->
-        <a href="https://numpy.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> </a>
-        <!-- Pandas -->
-        <a href="https://pandas.pydata.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
-        <!-- Matplotlib -->
-        <a href="https://matplotlib.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" /> </a>
-        <!-- Scikit-Learn -->
-        <a href="https://scikit-learn.org/stable/" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> </a>
-      </td>
-      <!-- Data Science Skills -->
-      <td align="center">
-        <!-- Jupyter Notebook -->
-        <a href="https://jupyter.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /> </a>
-        <!-- SQL -->
-        <a href="https://www.mysql.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> </a>
-        <!-- SQLite -->
-        <a href="https://www.sqlite.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> </a>
-        <!-- OpenCV -->
-        <a href="https://opencv.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> </a>
-        <!-- Anaconda -->
-        <a href="https://www.anaconda.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" /> </a>
-      </td>
-      <!-- Other Skills -->
-      <td align="center">
-        <!-- ChatGPT -->
-        <a href="https://chat.openai.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="chatgpt" /> </a>
-        <!-- Shell Script -->
-        <a href="https://www.shellscript.sh/" rel="noreferrer"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" /> </a>
-        <!-- Linux -->
-        <a href="https://www.linux.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </a>
-        <!-- R Studio -->
-        <a href="https://posit.co/download/rstudio-desktop/" rel="noreferrer"> <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="R Studio" /> </a>
-        <!-- GitHub -->
-        <a href="https://github.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /> </a>
-        <!-- VSCode -->
-        <a href="https://code.visualstudio.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" /> </a>
-        <!-- VSCode -->
-        <a href="https://code.visualstudio.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="framer" /> </a>
-        <!-- Unity -->
-        <a href="https://code.visualstudio.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" /> </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## Statistics 📶
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hachucodes&show_icons=true&theme=tokyonight&rank_icon=github" alt="Harshitha's GitHub stats" style="width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachucodes&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 34%;">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=hachucodes&theme=tokyonight" alt="GitHub Streak" style="width: 50%;">
+
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harshitha%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descColor=a78bfa&animation=fadeIn"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+%7C+.NET+Core+%7C+Angular+%7C+Python;Building+Scalable+RESTful+APIs;Clean+Code+%7C+TDD+%7C+Microservices;Scrum+Master+%7C+Agile+Practitioner" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-s2003/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-5b21b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Email](https://img.shields.io/badge/Email-sureshharshitha13@gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshharshitha13@gmail.com)
+![Location](https://img.shields.io/badge/📍-Bengaluru%2C%20India-6d28d9?style=for-the-badge)
+
 </div>
 
-## Let's Connect 🤝
+---
 
-<table align="center">
-  <thead align="center">
-    <tr align="center">
-      <td align="center">💌 Social Handles</td>
-      <td align="center">🌐 Coding Handles</td>
-    </tr>
-  </thead>
+## 👩‍💻 About Me
 
-  <tbody align="center">
-    <tr align="center">
-      <!-- Social Handles -->
-      <td align="center">
-        <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/harshitha-s2003/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <!-- X -->
-        <!-- <a href="https://x.com/himank_guptaa"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a> -->
-      </td>
-      <!-- Coding Handles -->
-      <td align="center">
-        <!--Leetcode--> 
-        <!-- <a href="https://leetcode.com/u/himank_gupta/"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a> -->
-        <!--Kaggle--> 
-        <!-- <a href="https://www.kaggle.com/hachucodes5"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a> -->
-      </td>
-    </tr>
-  </tbody>
-</table>
+| | |
+|---|---|
+| 👩‍💼 **Role** | System Engineer @ Infosys |
+| 🛠️ **Stack** | Java · .NET Core · Angular · Python · SQL |
+| 🎯 **Focus** | Scalable APIs · Clean Architecture · Agile Delivery |
+| 📍 **Location** | Bengaluru, India |
+| 🎓 **Education** | B.E. CSE — 8.96 CGPA · East West College of Engineering |
+| 💡 **Superpower** | Turning complex requirements into clean, scalable software — on time, every time |
+| 🚀 **Open To** | New Opportunities ✅ |
+
+> Results-driven engineer with production experience building **scalable RESTful APIs**, **enterprise Angular frontends**, and **robust data layers** — while leading Agile sprints as Scrum Master.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Runtimes**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Backend & APIs**
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Cloud**
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Impact at a Glance
+
+<div align="center">
+
+| Metric | Achievement |
+|:---|:---|
+| 🔻 Production Incidents | Reduced by **~30%** via robust API design & exception handling |
+| ⚡ Query Performance | Improved by **40%** through SQL indexing & stored procedure optimization |
+| 🐛 Defect Rate | Reduced by **25%** via clean code & systematic refactoring |
+| 🕐 Manual Processing | Cut by **80%** with automated Face Recognition Attendance System |
+| 🎓 Academic CGPA | **8.96 / 10** |
+| 📦 APIs Built | **10+ scalable RESTful APIs** in production |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Police Complaint Management System
+`Java` `Blockchain` `HTML/CSS`
+
+Architected a tamper-proof complaint platform with blockchain-based access control — reducing unauthorized data access risk to near-zero through cryptographic integrity guarantees.
+
+---
+
+### 👁️ Face Recognition Attendance System
+`Python` `OpenCV` `SQLite` `Tkinter`
+
+Real-time facial recognition system automating attendance for **100+ records** — slashing manual processing time by **80%** with integrated database persistence.
+
+---
+
+### 🎙️ Virtual Assistant for Visually Impaired
+`Python` `NLP` `Speech Recognition` `REST APIs`
+
+Voice-controlled AI assistant integrating OpenWeather & Wikipedia APIs via NLP and Text-to-Speech — improving information accessibility for visually impaired users.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hachucodes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachucodes&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hachucodes&theme=midnight-purple&hide_border=true&background=0d1117" />
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+- 📜 **Data Structures & Algorithms in Java** — NPTEL
+- 📜 **Programming in Java** — NPTEL
+- 📜 **Prompt Engineering for ChatGPT** — Great Learning
+- 📜 **Web Design & Development** — Internship Studios
+
+---
+
+## 💼 Work Experience
+
+**System Engineer · Infosys** *(Sept 2025 – Present)*
+> Engineering enterprise-scale APIs, leading Agile delivery as Scrum Master, and building end-to-end features with Angular + .NET Core stack.
+
+**Java Developer Intern · Global Quest Technology** *(Sept 2024 – May 2025)*
+> 360+ hours of hands-on Java engineering — OOP, Collections, Design Patterns applied to production-quality applications.
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Great Together
+
+*Open to full-time roles in Full-Stack Development, Backend Engineering, or API Design.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-7c3aed?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshitha-s2003/)
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-8b5cf6?style=for-the-badge&logo=gmail)](mailto:sureshharshitha13@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
