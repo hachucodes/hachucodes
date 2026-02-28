@@ -131,16 +131,6 @@ Voice-controlled AI assistant integrating OpenWeather & Wikipedia APIs via NLP a
 
 ---
 
-## 💼 Work Experience
-
-**System Engineer · Infosys** *(Sept 2025 – Present)*
-> Engineering enterprise-scale APIs, leading Agile delivery as Scrum Master, and building end-to-end features with Angular + .NET Core stack.
-
-**Java Developer Intern · Global Quest Technology** *(Sept 2024 – May 2025)*
-> 360+ hours of hands-on Java engineering — OOP, Collections, Design Patterns applied to production-quality applications.
-
----
-
 <div align="center">
 
 ### 💬 Let's Build Something Great Together
