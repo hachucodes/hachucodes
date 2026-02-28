@@ -23,7 +23,6 @@
 
 | | |
 |---|---|
-| 👩‍💼 **Role** | System Engineer @ Infosys |
 | 🛠️ **Stack** | Java · .NET Core · Angular · Python · SQL |
 | 🎯 **Focus** | Scalable APIs · Clean Architecture · Agile Delivery |
 | 📍 **Location** | Bengaluru, India |
